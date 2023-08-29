@@ -1,0 +1,13 @@
+enable
+configure terminal
+show vlan
+show inter status
+hostname swXXX
+vlan 100
+name VLAN_100
+vlan 200
+name VLAN_200
+exit
+show vlan br
+sow int status
+end
