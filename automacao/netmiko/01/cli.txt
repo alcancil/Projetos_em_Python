@@ -1,7 +1,5 @@
 enable
 configure terminal
-show vlan
-show inter status
 hostname swXXX
 vlan 100
 name VLAN_100
