@@ -1,6 +1,6 @@
 #Projetos em Python
 
-![image](https://github.com/alcancil/Projetos_em_Python/tree/main/automacao/netmiko/01/imagens/imagem01.png)
+![image](https://github.com/alcancil/Projetos_em_Python/tree/main/automacao/netmiko/01/imagens/imagem01.png)[/image]
 
 Repositório Criado em 29/08/2023 por Alexandre Lavorenti Cancilieri
 
