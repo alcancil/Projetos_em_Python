@@ -1,6 +1,5 @@
 #Projetos em Python
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png)
 ![image](https://github.com/alcancil/Projetos_em_Python/tree/main/automacao/netmiko/01/imagens/imagem01.png)
 
 Repositório Criado em 29/08/2023 por Alexandre Lavorenti Cancilieri
